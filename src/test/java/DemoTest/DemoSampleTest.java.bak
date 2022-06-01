@@ -9,6 +9,7 @@ public class DemoSampleTest {
 	public void testName() throws Exception 
 	{
 		Reporter.log("GITBASH",true);
+		Reporter.log("HEYY",true);
 	}
 
 }

@@ -10,6 +10,7 @@ public class DemoSampleTest {
 	{
 		Reporter.log("GITBASH",true);
 		Reporter.log("HEYY",true);
+		Reporter.log("BYE",true);
 	}
 
 }
